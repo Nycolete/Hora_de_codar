@@ -1,7 +1,6 @@
 # Hora_de_codar
 <br>
-Atividades práticas de Java Script 
-
+Sequência de exercícios práticos de lógica de programação em Java Srcipt.
 
 
 
